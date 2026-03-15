@@ -1,0 +1,1 @@
+ Make Fitness Fun is an interactive website that helps friends and family stay active and healthy while having fun. It features a smart workout generator, workout tracker, calorie calculator, progress charts, leaderboards, and fitness challenges, making exercise social, motivating, and effective for everyone. 💪
